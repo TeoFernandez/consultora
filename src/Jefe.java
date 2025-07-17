@@ -8,7 +8,7 @@ public class Jefe extends Persona{
         this.departamento_jefe = departamento_jefe;
     }
 
-    //Geters and Seters
+    //Geters and Seters. 
     public int getId_jefe() {
         return id_jefe;
     }
